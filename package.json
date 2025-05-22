@@ -1,0 +1,10 @@
+{
+  "name": "New-Automation-SaucedemoWeb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "NaCL",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  }
+}

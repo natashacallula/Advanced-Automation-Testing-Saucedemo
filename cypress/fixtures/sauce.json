@@ -1,0 +1,26 @@
+{
+    "username1" : "standard_user",
+
+    "password1" : "secret_sauce",
+
+    "username2" : "locked_out_user",
+
+    "username3" : "problem_user",
+
+    "username4" : "performance_glitch_user",
+
+    "username5" : "error_user",
+
+    "username6" : "visual_user",
+
+    "username7" : "eduwork_user",
+
+    "password2" : "eduwork_sauce", 
+
+    "first" : "Natasha",
+
+    "last" : "callula",
+
+    "postal" : "15132"
+
+}
