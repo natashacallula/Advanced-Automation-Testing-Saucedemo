@@ -30,9 +30,9 @@ While the previous version only tested functionality using the `standard_user` a
    - performance_glitch_user
    - error_user
    - visual_user
-
-## 🛒 **Functional Testing (Per User Role)** 🛒
-Each user has dedicated test flows:
+     
+🛒 Functional Testing (Per User Role)
+2. Each user has dedicated test flows:
 - Product sorting
 - Add/remove items to cart
 - Checkout process
@@ -45,5 +45,6 @@ Testing each user type separately ensures that the system behaves correctly unde
   [Test Scenario documented on Spreadsheet](https://docs.google.com/spreadsheets/d/1XI9BbrBrG3_k5f7qBq3_p8uTzB1vGkT8mXo9e61RnfE/edit?usp=sharing)
 
 ## 📊 **Testing Evidence** 📊
-Watch the automation run-through on YouTube:
+***Watch the automation run-through on YouTube***
+
 [![Testing Evidence](https://img.youtube.com/vi/joFs1QI4HTU/0.jpg)](https://youtu.be/joFs1QI4HTU)
