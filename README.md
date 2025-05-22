@@ -24,7 +24,7 @@ While the previous version only tested functionality using the `standard_user` a
 
 ## 🧪 **Key Test Scenarios (per user)** 🧪
 🧑‍💼 Authentication Tests
-1. Login with each user:
+Login with each user:
    - standard_user
    - problem_user
    - performance_glitch_user
@@ -32,7 +32,7 @@ While the previous version only tested functionality using the `standard_user` a
    - visual_user
      
 🛒 Functional Testing (Per User Role)
-2. Each user has dedicated test flows:
+Each user has dedicated test flows:
 - Product sorting
 - Add/remove items to cart
 - Checkout process
