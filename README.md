@@ -47,4 +47,4 @@ Testing each user type separately ensures that the system behaves correctly unde
 ## 📊 **Testing Evidence** 📊
 ***Watch the automation run-through on YouTube***
 
-[![Testing Evidence](https://img.youtube.com/vi/joFs1QI4HTU/0.jpg)](https://youtu.be/L7t6LzmR1Sk)
+[![Testing Evidence](https://img.youtube.com/vi/joFs1QI4HTU/0.jpg)](https://www.youtube.com/watch?v=L7t6LzmR1Sk)
