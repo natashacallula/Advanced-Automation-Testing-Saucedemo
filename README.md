@@ -41,6 +41,9 @@ Each user has dedicated test flows:
 
 Testing each user type separately ensures that the system behaves correctly under different access levels and user conditions.
 
+## 📄 **Test Plan Documentation** 📄
+  [Test Plan documented on Google Document](https://docs.google.com/document/d/1zBmVjJvIW17-U6QTMFy7qCXKVVHix6I3/edit?usp=sharing&ouid=100639890315581854970&rtpof=true&sd=true)
+
 ## 📄 **Test Scenario Documentation** 📄
   [Test Scenario documented on Spreadsheet](https://docs.google.com/spreadsheets/d/1XI9BbrBrG3_k5f7qBq3_p8uTzB1vGkT8mXo9e61RnfE/edit?usp=sharing)
 
